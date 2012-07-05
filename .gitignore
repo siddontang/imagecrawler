@@ -1,0 +1,10 @@
+*.pyc
+*.db
+*.log
+build
+dist
+*.spec
+warnmain.txt
+out
+cache
+download
